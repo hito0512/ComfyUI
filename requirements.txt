@@ -10,3 +10,7 @@ Pillow
 scipy
 tqdm
 psutil
+httpcore==0.15.0 
+httpx ==0.24.1
+pymongo 
+googletrans
